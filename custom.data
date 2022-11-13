@@ -1,0 +1,5 @@
+classes = 18 
+train  = YOLO/train.txt
+valid  = YOLO/test.txt
+names = YOLO/custom.names
+backup = YOLO/backup/
